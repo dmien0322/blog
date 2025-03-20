@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dongmien</title>
+    <link>/</link>
+    <description>dongmien</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+      
+
+      
+    
+
+    
+    <lastBuildDate>Thu, 20 Mar 2025 18:17:20 +0700</lastBuildDate>
+    
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Blog</title>
+      <link>/first-blog/</link>
+      <pubDate>Thu, 20 Mar 2025 18:17:20 +0700</pubDate>
+      
+      <guid>/first-blog/</guid>
+      <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#e2e4e5;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#ff5c57&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#ff5c57&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#9aedfe&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#57c7ff&#34;&gt;main&lt;/span&gt;(String&lt;span style=&#34;color:#ff6ac1&#34;&gt;[]&lt;/span&gt; args) {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    System.&lt;span style=&#34;color:#57c7ff&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#57c7ff&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#5af78e&#34;&gt;&amp;#34;This is first code&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
